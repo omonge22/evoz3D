@@ -24,5 +24,13 @@ Adicional se encuentran los **_Custom Buildplate_** para cada uno de los equipos
 * Prusa BEAR Custom
 
 ## Custom Buildplate
+Las carpetas _Custom Buildplate_ permiten personalizar el entorno del laminador para mostrar una imagen similar a la cama física de la impresora.
+
+Se adjuntan 3 archivos:
+* **.stl** el cual muestra el modelado 3D de la superficie de impresión.
+* **.png** el cual muestra los logos dibujados en la superficie de impresión.
+* **.xcf** el cual es la extesión del programa [_gimp_](http://www.gimp.org.es/) para personalizar los logos/superfices
+
+### Impresoras
 * [aRtiLLeRY GENIUS](https://github.com/omonge22/evoz3D-Config_Bundle/tree/main/Custom%20Buildplate/aRtiLLeRY%20GENIUS)
 * [Prusa MINI FRANKENSTEIN](https://github.com/omonge22/evoz3D-Config_Bundle/tree/main/Custom%20Buildplate/Prusa%20MINI%20FRANKENSTEIN)
