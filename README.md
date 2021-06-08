@@ -20,7 +20,7 @@ Adicional se encuentran los **_Custom Buildplate_** para cada uno de los equipos
   * BMG Extruder
   * BEAR Extruder
 * Prusa MINI FRANKENSTEIN
-* [BLV-EVA](https://github.com/omonge22/Marlin/tree/BLV-EVA_Marlin)
+* BLV-EVA [Marlin 2.0.8.2](https://github.com/omonge22/Marlin/tree/BLV-EVA_Marlin)
 * PORTU Prusa
 * Kingroom Kp3S
 
