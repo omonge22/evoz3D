@@ -10,7 +10,7 @@ PrusaSlicer / SuperSlicer Configuration Bundle
 		Printers
 	</div>
 		<div>
-		    aRtiLLery GENIUS
+		    aRtiLLeRY GENIUS
 		</div>
 		<div>
 		    Prusa Bear
@@ -31,7 +31,7 @@ PrusaSlicer / SuperSlicer Configuration Bundle
 		Printers
 	</div>
 		<div>
-		    aRtiLLery GENIUS
+		    aRtiLLeRY GENIUS
 		</div>
 		<div>
 		    Prusa Bear
