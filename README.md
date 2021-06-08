@@ -1,44 +1,20 @@
-# Config_Bundle PrusaSlicer / SuperSlicer
-PrusaSlicer / SuperSlicer Configuration Bundle
 
----------------------------------------------------
+# evoz3D - Configuration Bundle
 
-<div>
-    <h1><a href="/">Prusa Slicer</a></h1>
-</div>
-	<div>
-		Printers
-	</div>
-		<div>
-		    aRtiLLeRY GENIUS
-		</div>
-		<div>
-		    Prusa Bear
-		</div>
-		<div>
-		    Prusa Frankenstein MINI
-		</div>
-		<div>
-		    BLV-EVA
-		</div>
-				
----------------------------------------------------
+El siguiente repositorio muestra las configuraciones de laminado para el software PrusaSlicer y SuperSlicer para las impresoras utilizadas por **evoz3D**
+Adicional se encuentran los **_Custom Buildplate_** para cada uno de los equipos.
 
-<div>
-    <h1><a href="/">Super Slicer</a></h1>
-</div>
-	<div>
-		Printers
-	</div>
-		<div>
-		    aRtiLLeRY GENIUS
-		</div>
-		<div>
-		    Prusa Bear
-		</div>
-		<div>
-		    Prusa Frankenstein MINI
-		</div>
-		<div>
-		    BLV-EVA
-		</div>
+### Cuáles Impresoras se encuentran configuradas?
+
+![PrusaSlicer logo](/resources/icons/PrusaSlicer.png?raw=true)
+
+* aRtiLLeRY GENIUS
+* Prusa BEAR Custom
+* Prusa MINI FRANKENSTEIN
+* BLV-EVA
+* PORTU Prusa
+
+![SuperSlicer logo](/resources/icons/SuperSlicer.png?raw=true)
+
+* aRtiLLeRY GENIUS
+* Prusa BEAR Custom
