@@ -1,4 +1,3 @@
-
 # evoz3D <img align="right" width=500 src="/resources/icons/evoz3D_logo.png?raw=true" />
 
 **evoz3D** es una empresa costarricense especializada en diseño e ingeniería que desarrolla y estimula la creatividad en productos y servicios 3D
