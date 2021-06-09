@@ -38,15 +38,18 @@ Adicional se encuentran los **_Custom Buildplate_** para cada uno de los equipos
   * BLTouch / BTT TFT35
   * SKR1.4Turbo [_in process_](https://raw.githubusercontent.com/omonge22/evoz3D/main/resources/icons/web-pc.jpg)
 
-* #### Prusa BEAR Custom <img align="right" width=150 src="https://avatars.githubusercontent.com/u/38851044?v=4" />
+* #### Prusa BEAR Custom [wiki](https://github.com/omonge22/evoz3D/blob/main/Wiki/Prusa%20BEAR/README.md) <img align="right" width=150 src="https://avatars.githubusercontent.com/u/38851044?v=4" />
   * BMG Extruder [Marlin 2.???]
   * BEAR Extruder [_in process_](https://raw.githubusercontent.com/omonge22/evoz3D/main/resources/icons/web-pc.jpg)
 
-* #### Prusa MINI FRANKENSTEIN [Marlin 2.0.8.?](https://raw.githubusercontent.com/omonge22/evoz3D/main/resources/icons/web-pc.jpg)
+* #### Prusa MINI FRANKENSTEIN
+  * [Marlin 2.0.8.?](https://raw.githubusercontent.com/omonge22/evoz3D/main/resources/icons/web-pc.jpg)
 
-* #### BLV-EVA [Marlin 2.0.8.2](https://github.com/omonge22/Marlin/tree/_BLV-EVA)
+* #### BLV-EVA
+  * [Marlin 2.0.8.2](https://github.com/omonge22/Marlin/tree/_BLV-EVA)
 
-* #### PORTU Prusa [_in process..._](https://raw.githubusercontent.com/omonge22/evoz3D/main/resources/icons/web-pc.jpg)
+* #### PORTU Prusa [wiki](https://github.com/omonge22/evoz3D/tree/main/Wiki/PORTU%20Prusa)
+  * [_in process..._](https://raw.githubusercontent.com/omonge22/evoz3D/main/resources/icons/web-pc.jpg)
 
 * #### Kingroom Kp3S
   * Factory
