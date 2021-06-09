@@ -26,7 +26,7 @@ Adicional se encuentran los **_Custom Buildplate_** para cada uno de los equipos
 
  ### Impresoras
 
-* #### aRtiLLeRY GENIUS
+* #### aRtiLLeRY GENIUS [wiki](https://github.com/omonge22/evoz3D/blob/main/Wiki/aRtiLLeRY%20GENIUS/README.md)
   * Factory
   * > Recursos tomados del repositorio de [aRtiLLeRY 3D](https://github.com/artillery3d) 
     * [Marlin 1.1.9](https://github.com/omonge22/genius-firmware)
@@ -44,7 +44,7 @@ Adicional se encuentran los **_Custom Buildplate_** para cada uno de los equipos
 
 * #### Prusa MINI FRANKENSTEIN [Marlin 2.0.8.?](https://raw.githubusercontent.com/omonge22/evoz3D/main/resources/icons/web-pc.jpg)
 
-* #### BLV-EVA [Marlin 2.0.8.2](https://github.com/omonge22/Marlin/tree/BLV-EVA_Marlin)
+* #### BLV-EVA [Marlin 2.0.8.2](https://github.com/omonge22/Marlin/tree/_BLV-EVA)
 
 * #### PORTU Prusa [_in process..._](https://raw.githubusercontent.com/omonge22/evoz3D/main/resources/icons/web-pc.jpg)
 
