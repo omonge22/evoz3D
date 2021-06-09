@@ -1,10 +1,24 @@
 # evoz3D <img align="right" width=300 src="/resources/icons/evoz3D_logo.png?raw=true" />
 
+
+
+## Tabla de contenidos
+  1. [Introducción](#Introducción)
+  1. [Firmware ](#Firmware)
+  1. [Perfiles de Laminado PrusaSlicer / SuperSlicer](#Perfiles-de-Laminado-PrusaSlicer-/-SuperSlicer)
+  1. [Custom Buildplate](#Custom-Buildplate)
+  1. [Apoya mi Trabajo](#Apoya-mi-Trabajo)
+  1. [Gracias](#Gracias)
+
+
+
+## Introducción
 **evoz3D** es una empresa costarricense especializada en diseño e ingeniería que desarrolla y estimula la creatividad en productos y servicios 3D
 
 El siguiente repositorio muestra las configuraciones para las impresoras utilizadas/desarrolladas/ajustadas por **evoz3D** en terminos de Firmware y relacionado, asi como las configuraciones de laminado para el software PrusaSlicer y SuperSlicer para dichas impresoras...
 
 Adicional se encuentran los **_Custom Buildplate_** para cada uno de los equipos.
+
 
 
 ## Firmware 
@@ -43,6 +57,7 @@ Adicional se encuentran los **_Custom Buildplate_** para cada uno de los equipos
      * [PDF Manual](https://github.com/omonge22/evoz3D/blob/main/resources/Kingroon%20Factory/KP3S-Manual.pdf) 
 
 
+
 ## Perfiles de Laminado PrusaSlicer / SuperSlicer
 ### Impresoras agregadas:
 #### Prusa Slicer <img align="right" width=150 src="https://raw.githubusercontent.com/prusa3d/PrusaSlicer/master/resources/icons/PrusaSlicer.png?raw=true" />
@@ -59,6 +74,8 @@ Adicional se encuentran los **_Custom Buildplate_** para cada uno de los equipos
 * BLV-EVA [_in process..._](https://raw.githubusercontent.com/omonge22/evoz3D/main/resources/icons/web-pc.jpg)
 * PORTU Prusa [_in process..._](https://raw.githubusercontent.com/omonge22/evoz3D/main/resources/icons/web-pc.jpg)
 
+
+
 ## Custom Buildplate
 Las carpetas _Custom Buildplate_ permiten personalizar el entorno del laminador para mostrar una imagen similar a la cama física de la impresora.
 
@@ -71,3 +88,16 @@ Se adjuntan 3 archivos:
 * [aRtiLLeRY GENIUS](https://github.com/omonge22/evoz3D-Config_Bundle/tree/main/Custom%20Buildplate/aRtiLLeRY%20GENIUS)
 * [Prusa MINI FRANKENSTEIN](https://github.com/omonge22/evoz3D-Config_Bundle/tree/main/Custom%20Buildplate/Prusa%20MINI%20FRANKENSTEIN)
 * BLV-EVA [_in process..._](https://raw.githubusercontent.com/omonge22/evoz3D/main/resources/icons/web-pc.jpg)
+
+
+
+## Apoya mi Trabajo
+[![paypal.me](resources/icons/paypal_50px.png)](https://www.paypal.me/omonge22)<br/>[paypal.me/omonge22](https://www.paypal.me/omonge22)
+<br/><br/>
+También podrias invitarme a un café en [Thingiverse](https://www.thingiverse.com/omonge22/designs) si asi lo prefieres.
+
+
+
+## Gracias
+A todas aquellas personas que permiten que **evoz3D** sea parte de sus proyectos...
+
