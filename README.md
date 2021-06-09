@@ -38,9 +38,9 @@ Adicional se encuentran los **_Custom Buildplate_** para cada uno de los equipos
    * > Recursos tomados de [Kingroon.com](https://www.kingroon.com/downloads/)
      * Marlin (.bin)
        * [Firmware](https://github.com/omonge22/evoz3D/tree/main/resources/Kingroon%20Factory/KP3S-Firmware-201022)
-       * [Firmware - BLTouch]()
+       * [Firmware - BLTouch](https://github.com/omonge22/evoz3D/tree/main/resources/Kingroon%20Factory/KP3S-Firmware-3Dtouch)
      * [Contenido USB](https://drive.google.com/file/d/1L9fIGaFAllFT-b9qKtVpjevujm8QpJ2f/view)
-     * [PDF Manual]() 
+     * [PDF Manual](https://github.com/omonge22/evoz3D/blob/main/resources/Kingroon%20Factory/KP3S-Manual.pdf) 
 
 
 ## Perfiles de Laminado PrusaSlicer / SuperSlicer
