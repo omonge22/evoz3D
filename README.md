@@ -13,8 +13,8 @@ Adicional se encuentran los **_Custom Buildplate_** para cada uno de los equipos
  ### Impresoras
 
 * #### aRtiLLeRY GENIUS
-  * Factory 
-    * > Recursos tomados del repositorio de [aRtiLLeRY 3D](https://github.com/artillery3d) 
+  * Factory
+  * > Recursos tomados del repositorio de [aRtiLLeRY 3D](https://github.com/artillery3d) 
     * [Marlin 1.1.9](https://github.com/omonge22/genius-firmware)
     * [TFT: mkstft28](https://github.com/omonge22/genius-tft-firmware) <img align="right" width=150 src="https://avatars.githubusercontent.com/u/12979070?v=4" />
     * [Contenido USB](https://drive.google.com/file/d/1ymOYUReszwrEQ4nJWugZOiGnmjrinvXf/view)
@@ -33,7 +33,15 @@ Adicional se encuentran los **_Custom Buildplate_** para cada uno de los equipos
 
 * #### PORTU Prusa [_in process..._](https://raw.githubusercontent.com/omonge22/evoz3D/main/resources/icons/web-pc.jpg)
 
-* #### Kingroom Kp3S [_in process..._](https://raw.githubusercontent.com/omonge22/evoz3D/main/resources/icons/web-pc.jpg)
+* #### Kingroom Kp3S
+  * Factory
+   * > Recursos tomados de [Kingroon.com](https://www.kingroon.com/downloads/)
+     * Marlin (.bin)
+       * [Firmware]()
+       * [Firmware - BLTouch]()
+     * [Contenido USB](https://drive.google.com/file/d/1L9fIGaFAllFT-b9qKtVpjevujm8QpJ2f/view)
+     * [PDF Manual]() 
+
 
 ## Perfiles de Laminado PrusaSlicer / SuperSlicer
 ### Impresoras agregadas:
