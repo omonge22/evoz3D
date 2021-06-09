@@ -1,5 +1,5 @@
 
-# evoz3D <img align="right" width=250 src="/resources/icons/evoz3D_logo.png?raw=true" />
+# evoz3D <img align="right" width=500 src="/resources/icons/evoz3D_logo.png?raw=true" />
 
 **evoz3D** es una empresa costarricense especializada en diseño e ingeniería que desarrolla y estimula la creatividad en productos y servicios 3D
 
@@ -7,26 +7,38 @@ El siguiente repositorio muestra las configuraciones para las impresoras utiliza
 Adicional se encuentran los **_Custom Buildplate_** para cada uno de los equipos.
 
 
-## Firmware
+## Firmware 
 <img align="right" width=150 src="https://github.com/MarlinFirmware/Marlin/blob/2.0.x/buildroot/share/pixmaps/logo/marlin-250.png?raw=true" />
 
-### Impresoras
+ ### Impresoras
 
-* aRtiLLeRY GENIUS
-  * Factory
-  * BLTouch
+* #### aRtiLLeRY GENIUS
+  * Factory 
+    * > Recursos tomados del repositorio de [aRtiLLeRY 3D](https://github.com/artillery3d) 
+    * [Marlin 1.1.9](https://github.com/omonge22/genius-firmware)
+    * [TFT: mkstft28](https://github.com/omonge22/genius-tft-firmware) <img align="right" width=150 src="https://avatars.githubusercontent.com/u/12979070?v=4" />
+    * [Contenido USB](https://drive.google.com/file/d/1ymOYUReszwrEQ4nJWugZOiGnmjrinvXf/view)
+    * [Cura Profile](https://github.com/artillery3d/slicer_profiles)
+    * [PDF Manual](https://drive.google.com/file/d/103mb-JaXS-LajUZ2fF9sH9GxXkMXWKK5/view) 
+  * BLTouch / BTT TFT35
   * SKR1.4Turbo
-* Prusa BEAR Custom
+
+* #### Prusa BEAR Custom <img align="right" width=150 src="https://avatars.githubusercontent.com/u/38851044?v=4" />
   * BMG Extruder
   * BEAR Extruder
-* Prusa MINI FRANKENSTEIN
-* BLV-EVA [Marlin 2.0.8.2](https://github.com/omonge22/Marlin/tree/BLV-EVA_Marlin)
-* PORTU Prusa
-* Kingroom Kp3S
+
+* #### Prusa MINI FRANKENSTEIN
+
+* #### BLV-EVA [Marlin 2.0.8.2](https://github.com/omonge22/Marlin/tree/BLV-EVA_Marlin)
+
+* #### PORTU Prusa
+
+* #### Kingroom Kp3S
 
 ## Perfiles de Laminado PrusaSlicer / SuperSlicer
-
+Impresoras agregadas:
 ### Prusa Slicer <img align="right" width=150 src="https://raw.githubusercontent.com/prusa3d/PrusaSlicer/master/resources/icons/PrusaSlicer.png?raw=true" />
+
 * aRtiLLeRY GENIUS
 * Prusa BEAR Custom
 * Prusa MINI FRANKENSTEIN
