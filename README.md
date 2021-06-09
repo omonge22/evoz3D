@@ -37,7 +37,7 @@ Adicional se encuentran los **_Custom Buildplate_** para cada uno de los equipos
   * Factory
    * > Recursos tomados de [Kingroon.com](https://www.kingroon.com/downloads/)
      * Marlin (.bin)
-       * [Firmware]()
+       * [Firmware](https://github.com/omonge22/evoz3D/tree/main/resources/Kingroon%20Factory/KP3S-Firmware-201022)
        * [Firmware - BLTouch]()
      * [Contenido USB](https://drive.google.com/file/d/1L9fIGaFAllFT-b9qKtVpjevujm8QpJ2f/view)
      * [PDF Manual]() 
