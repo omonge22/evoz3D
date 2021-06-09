@@ -22,7 +22,7 @@ Adicional se encuentran los **_Custom Buildplate_** para cada uno de los equipos
 
 
 ## Firmware 
-<img align="right" width=150 src="https://github.com/MarlinFirmware/Marlin/blob/2.0.x/buildroot/share/pixmaps/logo/marlin-250.png?raw=true" />
+[<img align="right" width=150 src="https://github.com/MarlinFirmware/Marlin/blob/2.0.x/buildroot/share/pixmaps/logo/marlin-250.png?raw=true" />](https://github.com/omonge22/Marlin)
 
  ### Impresoras
 
