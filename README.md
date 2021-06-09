@@ -60,15 +60,16 @@ Adicional se encuentran los **_Custom Buildplate_** para cada uno de los equipos
 
 ## Perfiles de Laminado PrusaSlicer / SuperSlicer
 ### Impresoras agregadas:
-#### Prusa Slicer <img align="right" width=150 src="https://raw.githubusercontent.com/prusa3d/PrusaSlicer/master/resources/icons/PrusaSlicer.png?raw=true" />
+#### [Prusa Slicer](https://github.com/omonge22/evoz3D/tree/main/PrusaSlicer_config_bundle) <img align="right" width=150 src="https://raw.githubusercontent.com/prusa3d/PrusaSlicer/master/resources/icons/PrusaSlicer.png?raw=true" />
 
 * aRtiLLeRY GENIUS
 * Prusa BEAR Custom
+* Prusa FRANKESTEIN MINI (_Proyecto abandonado_)
 * BLV-EVA [_in process..._](https://raw.githubusercontent.com/omonge22/evoz3D/main/resources/icons/web-pc.jpg)
 * PORTU Prusa [_in process..._](https://raw.githubusercontent.com/omonge22/evoz3D/main/resources/icons/web-pc.jpg)
 
 
-#### Super Slicer <img align="right" width=125 src="https://github.com/supermerill/SuperSlicer/blob/master/resources/icons/SuperSlicer.png?raw=true" />
+#### [Super Slicer](https://github.com/omonge22/evoz3D/tree/main/SuperSlicer_config_bundle) <img align="right" width=125 src="https://github.com/supermerill/SuperSlicer/blob/master/resources/icons/SuperSlicer.png?raw=true" />
 * aRtiLLeRY GENIUS
 * Prusa BEAR Custom
 * BLV-EVA [_in process..._](https://raw.githubusercontent.com/omonge22/evoz3D/main/resources/icons/web-pc.jpg)
