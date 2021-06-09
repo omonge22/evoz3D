@@ -30,7 +30,7 @@ Adicional se encuentran los **_Custom Buildplate_** para cada uno de los equipos
   * Factory
   * > Recursos tomados del repositorio de [aRtiLLeRY 3D](https://github.com/artillery3d) 
     * [Marlin 1.1.9](https://github.com/omonge22/genius-firmware)
-    * [TFT: mkstft28](https://github.com/omonge22/genius-tft-firmware) <img align="right" width=150 src="https://avatars.githubusercontent.com/u/12979070?v=4" />
+    * [TFT: mkstft28](https://github.com/omonge22/genius-tft-firmware) [<img align="right" width=150 src="https://avatars.githubusercontent.com/u/12979070?v=4" />](https://github.com/makerbase-mks)
     * [Contenido USB](https://drive.google.com/file/d/1ymOYUReszwrEQ4nJWugZOiGnmjrinvXf/view)
     * [Cura Profile](https://github.com/artillery3d/slicer_profiles)
     * [PDF Manual](https://drive.google.com/file/d/103mb-JaXS-LajUZ2fF9sH9GxXkMXWKK5/view)
@@ -38,7 +38,7 @@ Adicional se encuentran los **_Custom Buildplate_** para cada uno de los equipos
   * BLTouch / BTT TFT35
   * SKR1.4Turbo [_in process_](https://raw.githubusercontent.com/omonge22/evoz3D/main/resources/icons/web-pc.jpg)
 
-* #### Prusa BEAR Custom [wiki](https://github.com/omonge22/evoz3D/blob/main/Wiki/Prusa%20BEAR/README.md) <img align="right" width=150 src="https://avatars.githubusercontent.com/u/38851044?v=4" />
+* #### Prusa BEAR Custom [wiki](https://github.com/omonge22/evoz3D/blob/main/Wiki/Prusa%20BEAR/README.md) [<img align="right" width=150 src="https://avatars.githubusercontent.com/u/38851044?v=4" />](https://github.com/bigtreetech)
   * BMG Extruder [Marlin 2.???]
   * BEAR Extruder [_in process_](https://raw.githubusercontent.com/omonge22/evoz3D/main/resources/icons/web-pc.jpg)
 
