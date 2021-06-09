@@ -94,7 +94,7 @@ Se adjuntan 3 archivos:
 ## Apoya mi Trabajo
 [![paypal.me](resources/icons/paypal_50px.png)](https://www.paypal.me/omonge22)<br/>[paypal.me/omonge22](https://www.paypal.me/omonge22)
 <br/><br/>
-También podrias invitarme a un café en [Thingiverse](https://www.thingiverse.com/omonge22/designs) si asi lo prefieres.
+También podrías invitarme a un café en [Thingiverse](https://www.thingiverse.com/omonge22/designs) si asi lo prefieres.
 
 
 
