@@ -36,8 +36,8 @@ Adicional se encuentran los **_Custom Buildplate_** para cada uno de los equipos
 * #### Kingroom Kp3S [_in process..._](https://raw.githubusercontent.com/omonge22/evoz3D/main/resources/icons/web-pc.jpg)
 
 ## Perfiles de Laminado PrusaSlicer / SuperSlicer
-Impresoras agregadas:
-### Prusa Slicer <img align="right" width=150 src="https://raw.githubusercontent.com/prusa3d/PrusaSlicer/master/resources/icons/PrusaSlicer.png?raw=true" />
+### Impresoras agregadas:
+#### Prusa Slicer <img align="right" width=150 src="https://raw.githubusercontent.com/prusa3d/PrusaSlicer/master/resources/icons/PrusaSlicer.png?raw=true" />
 
 * aRtiLLeRY GENIUS
 * Prusa BEAR Custom
@@ -45,7 +45,7 @@ Impresoras agregadas:
 * PORTU Prusa [_in process..._](https://raw.githubusercontent.com/omonge22/evoz3D/main/resources/icons/web-pc.jpg)
 
 
-### Super Slicer <img align="right" width=125 src="https://github.com/supermerill/SuperSlicer/blob/master/resources/icons/SuperSlicer.png?raw=true" />
+#### Super Slicer <img align="right" width=125 src="https://github.com/supermerill/SuperSlicer/blob/master/resources/icons/SuperSlicer.png?raw=true" />
 * aRtiLLeRY GENIUS
 * Prusa BEAR Custom
 * BLV-EVA [_in process..._](https://raw.githubusercontent.com/omonge22/evoz3D/main/resources/icons/web-pc.jpg)
