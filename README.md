@@ -33,7 +33,8 @@ Adicional se encuentran los **_Custom Buildplate_** para cada uno de los equipos
     * [TFT: mkstft28](https://github.com/omonge22/genius-tft-firmware) <img align="right" width=150 src="https://avatars.githubusercontent.com/u/12979070?v=4" />
     * [Contenido USB](https://drive.google.com/file/d/1ymOYUReszwrEQ4nJWugZOiGnmjrinvXf/view)
     * [Cura Profile](https://github.com/artillery3d/slicer_profiles)
-    * [PDF Manual](https://drive.google.com/file/d/103mb-JaXS-LajUZ2fF9sH9GxXkMXWKK5/view) 
+    * [PDF Manual](https://drive.google.com/file/d/103mb-JaXS-LajUZ2fF9sH9GxXkMXWKK5/view)
+  * [evoz3D Marlin Repository (1.1.9)](https://github.com/omonge22/Marlin/tree/aRtiLLeRY-GENIUS_Factory-Marlin-1.1.9) 
   * BLTouch / BTT TFT35
   * SKR1.4Turbo [_in process_](https://raw.githubusercontent.com/omonge22/evoz3D/main/resources/icons/web-pc.jpg)
 
