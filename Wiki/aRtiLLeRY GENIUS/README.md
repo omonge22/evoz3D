@@ -16,6 +16,27 @@ Bed Leveling|BLTouch|
 Bed|AC 120V|
 Power|24V|
 
+#### Mods
+En el archivo `pins_RAMPS.h` se cambia el pin 4 por el 2 para poder colocar el final de carrera en `XMAX endstop`
+<br/> Ubicacion `Marlin\src\pins\ramps`
+```
+// RAMPS 1.4 DIO 4 on the servos connector
+#ifndef FIL_RUNOUT_PIN
+  #define FIL_RUNOUT_PIN  2
+#endif
+```
+
+**Por defecto**
+```
+// define digital pin 4 for the filament runout sensor. Use the RAMPS 1.4 digital input 4 on the servos connector
+#ifndef FIL_RUNOUT_PIN
+  #define FIL_RUNOUT_PIN  4
+#endif
+````
+
+> **Cables**
+<br/> gris | blanco | negro |  De izquierda a derecha, viendo la conexion de pantalla hacia el Norte.
+
 
 
 ### Factory conf - Marlin 1.1.9
