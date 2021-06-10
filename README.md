@@ -17,7 +17,7 @@
 
 El siguiente repositorio contiene las configuraciones para las impresoras utilizadas/desarrolladas/ajustadas por **evoz3D** :alien: en términos de Firmware y relacionado, asi como las configuraciones de laminado para el software PrusaSlicer y SuperSlicer para dichas impresoras...
 
-Adicional se encuentran los **_Custom Buildplate_** para cada uno de los equipos.
+Adicional se encuentran los [**_Custom Buildplate_**](#Custom-Buildplate) para cada uno de los equipos.
 
 En el apartado [wiki](https://github.com/omonge22/evoz3D/wiki) se encuentra el detalle de cada equipo...
 
