@@ -67,7 +67,7 @@ En el apartado [wiki](https://github.com/omonge22/evoz3D/wiki) se encuentra el d
 
   ***
 
-* #### Kingroom Kp3S
+* #### Kingroom Kp3S [wiki ](https://github.com/omonge22/evoz3D/wiki/Kingroon-KP3S)
   * Factory
    * > Recursos tomados de [Kingroon.com](https://www.kingroon.com/downloads/)
      * Marlin (.bin)
