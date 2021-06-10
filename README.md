@@ -35,7 +35,7 @@ Adicional se encuentran los **_Custom Buildplate_** para cada uno de los equipos
     * [Cura Profile](https://github.com/artillery3d/slicer_profiles)
     * [PDF Manual](https://drive.google.com/file/d/103mb-JaXS-LajUZ2fF9sH9GxXkMXWKK5/view)
   * [evoz3D Marlin Repository (1.1.9)](https://github.com/omonge22/Marlin/tree/aRtiLLeRY-GENIUS_Factory-Marlin-1.1.9) 
-  * BLTouch / [BTT TFT35]() / [Z Aligment](Marlin 2.0.7.2)](https://github.com/omonge22/Marlin/tree/_aRtiLLeRY-GENIUS_Marlin)
+  * BLTouch /  Z Aligment / [BTT TFT35]() / [Marlin 2.0.7.2](https://github.com/omonge22/Marlin/tree/_aRtiLLeRY-GENIUS_Marlin)
   * SKR1.4Turbo [_in process_](https://raw.githubusercontent.com/omonge22/evoz3D/main/resources/icons/web-pc.jpg)
 
 * #### Prusa BEAR Custom [wiki](https://github.com/omonge22/evoz3D/blob/main/Wiki/Prusa%20BEAR/README.md) [<img align="right" width=150 src="https://avatars.githubusercontent.com/u/38851044?v=4" />](https://github.com/bigtreetech)
