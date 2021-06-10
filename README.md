@@ -46,7 +46,7 @@ Adicional se encuentran los **_Custom Buildplate_** para cada uno de los equipos
   * [Marlin 2.0.7.2](https://github.com/omonge22/Marlin/tree/_Prusa-FFRANKENSTEIN-MINI)
   * [_in process_ Marlin 2.0.8.x](https://raw.githubusercontent.com/omonge22/evoz3D/main/resources/icons/web-pc.jpg)
 
-* #### BLV-EVA
+* #### BLV-EVA [wiki](https://github.com/omonge22/evoz3D/blob/main/Wiki/BLV-EVA/README.md)
   * [Marlin 2.0.8.2](https://github.com/omonge22/Marlin/tree/_BLV-EVA)
 
 * #### PORTU Prusa [wiki](https://github.com/omonge22/evoz3D/tree/main/Wiki/PORTU%20Prusa)
