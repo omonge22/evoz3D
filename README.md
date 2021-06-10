@@ -42,7 +42,7 @@ Adicional se encuentran los **_Custom Buildplate_** para cada uno de los equipos
   * BMG Extruder [Marlin 2.0.7.2](https://github.com/omonge22/Marlin/tree/_Prusa-BEAR)
   * BEAR Extruder [_in process_](https://raw.githubusercontent.com/omonge22/evoz3D/main/resources/icons/web-pc.jpg)
 
-* #### Prusa MINI FRANKENSTEIN
+* #### Prusa MINI FRANKENSTEIN [wiki](https://github.com/omonge22/evoz3D/blob/main/Wiki/Prusa%20FRANKENSTEIN%20MINI/README.md)
   * [Marlin 2.0.7.2](https://github.com/omonge22/Marlin/tree/_Prusa-FFRANKENSTEIN-MINI)
   * [_in process_ Marlin 2.0.8.x](https://raw.githubusercontent.com/omonge22/evoz3D/main/resources/icons/web-pc.jpg)
 
