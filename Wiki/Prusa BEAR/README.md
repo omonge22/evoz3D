@@ -1,9 +1,10 @@
 # Prusa BEAR <img align="right" width=300 src="https://github.com/omonge22/prusa_i3_bear_upgrade/blob/master/extra/photos/frame_01_900px.jpg?raw=true" /> 
 
 
-## HARDWARE
-Hardware|Modelo|Documentacion
+## Marlin 2.0.7.2 
+Item|Modelo|Documentacion 
 --------|------|-------------
+Firmware|Marlin|[Version 2.0.7.2](https://github.com/omonge22/Marlin/tree/_Prusa-BEAR)
 Estructura|BEAR i3 Upgrade|[Repositorio BEAR](https://github.com/omonge22/prusa_i3_bear_upgrade)
 Board|BTT SKR1.4Turbo|[Datasheet](https://github.com/omonge22/BIGTREETECH-SKR-V1.3/tree/master/BTT%20SKR%20V1.4)
 Drivers|TMC2226 / TMC2209|[Datasheet](https://github.com/omonge22/BIGTREETECH-TMC2209-V1.2)
