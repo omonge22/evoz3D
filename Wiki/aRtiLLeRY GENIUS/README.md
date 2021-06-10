@@ -1,6 +1,6 @@
-# aRtiLLeRY GENIUS <img align="right" width=300 src="/resources/icons/aRtiLLeRY GENIUS.png?raw=true" />
+# aRtiLLeRY GENIUS <img align="right" width=200 src="/resources/icons/aRtiLLeRY GENIUS.png?raw=true" />
 
-### Marlin 2.0.7.2 
+## Marlin 2.0.7.2 
 Item|Modelo|Documentacion 
 --------|------|-------------
 Firmware|Marlin|[Version 2.0.7.2]()
@@ -16,7 +16,7 @@ Bed Leveling|BLTouch|[Manual](https://github.com/omonge22/evoz3D/blob/main/resou
 Bed|AC 120V|
 Power|24V|
 
-#### Mods
+### Mods
 En el archivo `pins_RAMPS.h` se cambia el pin 4 por el 2 para poder colocar el final de carrera en `XMAX endstop`
 <br/> Ubicacion `Marlin\src\pins\ramps`
 ```
@@ -39,7 +39,7 @@ En el archivo `pins_RAMPS.h` se cambia el pin 4 por el 2 para poder colocar el f
 
 
 
-### Factory conf - Marlin 1.1.9
+## Factory conf - Marlin 1.1.9
 Item|Modelo|Documentacion
 --------|------|-------------
 Firmware|Marlin|[Version 1.1.9](https://github.com/omonge22/Marlin/tree/aRtiLLeRY-GENIUS_Factory-Marlin-1.1.9)
