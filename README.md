@@ -1,4 +1,4 @@
-# evoz3D <img align="right" width=300 src="/resources/icons/evoz3D_logo.png?raw=true" />
+# evoz3D :alien: <img align="right" width=300 src="/resources/icons/evoz3D_logo.png?raw=true" />
 
 
 
@@ -127,5 +127,5 @@ También podrías invitarme a un café en [Thingiverse](https://www.thingiverse.
 
 
 ## Gracias
-A todas aquellas personas que permiten que **evoz3D** sea parte de sus proyectos...
+A todas aquellas personas que permiten que **evoz3D** :alien: sea parte de sus proyectos...
 
