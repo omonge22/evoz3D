@@ -15,13 +15,14 @@
 ## Introducción
 **evoz3D** :alien: es una empresa costarricense especializada en diseño e ingeniería que desarrolla y estimula la creatividad en productos y servicios 3D
 
-El siguiente repositorio contiene las configuraciones para las impresoras utilizadas/desarrolladas/ajustadas por **evoz3D** :alien: en términos de Firmware y relacionado, asi como las [configuraciones de laminado](https://github.com/omonge22/evoz3D#perfiles-de-laminado-prusaslicer--superslicer) para el software PrusaSlicer y SuperSlicer para dichas impresoras...
+El siguiente repositorio contiene las configuraciones para las impresoras utilizadas/desarrolladas/ajustadas por **evoz3D** :alien: en términos de Firmware y relacionado, así como las [configuraciones de laminado](https://github.com/omonge22/evoz3D#perfiles-de-laminado-prusaslicer--superslicer) para el software PrusaSlicer y SuperSlicer para dichas impresoras...
 
 Adicional se encuentran los [**_Custom Buildplate_**](#Custom-Buildplate) para cada uno de los equipos.
 
 En el apartado [wiki](https://github.com/omonge22/evoz3D/wiki) se encuentra el detalle de cada equipo...
 
 ***
+
 
 ## Firmware 
 [<img align="right" width=150 src="https://avatars.githubusercontent.com/u/12979070?v=4" />](https://github.com/makerbase-mks) [<img align="right" width=150 src="https://avatars.githubusercontent.com/u/38851044?v=4" />](https://github.com/bigtreetech) [<img align="right" width=150 src="https://github.com/MarlinFirmware/Marlin/blob/2.0.x/buildroot/share/pixmaps/logo/marlin-250.png?raw=true" />](https://github.com/omonge22/Marlin) 
