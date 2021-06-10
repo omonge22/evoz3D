@@ -34,7 +34,7 @@ Adicional se encuentran los **_Custom Buildplate_** para cada uno de los equipos
     * [Contenido USB](https://drive.google.com/file/d/1ymOYUReszwrEQ4nJWugZOiGnmjrinvXf/view)
     * [Cura Profile](https://github.com/artillery3d/slicer_profiles)
     * [PDF Manual](https://drive.google.com/file/d/103mb-JaXS-LajUZ2fF9sH9GxXkMXWKK5/view)
-  * [evoz3D Marlin Repository (1.1.9)](https://github.com/omonge22/Marlin/tree/aRtiLLeRY-GENIUS_Factory-Marlin-1.1.9) 
+  * [**evoz3D** Marlin Repository (1.1.9)](https://github.com/omonge22/Marlin/tree/aRtiLLeRY-GENIUS_Factory-Marlin-1.1.9) 
   * BLTouch /  Z Alignment / [BTT TFT35]() / [Marlin 2.0.7.2](https://github.com/omonge22/Marlin/tree/_aRtiLLeRY-GENIUS_Marlin)
   * SKR1.4Turbo [_in process_](https://raw.githubusercontent.com/omonge22/evoz3D/main/resources/icons/web-pc.jpg)
 
