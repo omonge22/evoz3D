@@ -68,7 +68,11 @@ En el apartado [wiki](https://github.com/omonge22/evoz3D/wiki) se encuentra el d
   ***
 
 * #### Kingroom Kp3S [wiki ](https://github.com/omonge22/evoz3D/wiki/Kingroon-KP3S)
-  * Factory
+  * **Titan Extruder Clone / Ajuste de Microstep**
+    * [Proceso](https://github.com/omonge22/evoz3D/wiki/Kingroon-KP3S#actualizatci%C3%B3n-titan-extruder-clone-)
+
+
+  * **Factory**
    * > Recursos tomados de [Kingroon.com](https://www.kingroon.com/downloads/)
      * Marlin (.bin)
        * [Firmware](https://github.com/omonge22/evoz3D/tree/main/resources/Kingroon%20Factory/KP3S-Firmware-201022)
