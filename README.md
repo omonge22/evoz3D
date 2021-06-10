@@ -13,44 +13,59 @@
 
 
 ## Introducción
-**evoz3D** es una empresa costarricense especializada en diseño e ingeniería que desarrolla y estimula la creatividad en productos y servicios 3D
+**evoz3D** :alien: es una empresa costarricense especializada en diseño e ingeniería que desarrolla y estimula la creatividad en productos y servicios 3D
 
-El siguiente repositorio muestra las configuraciones para las impresoras utilizadas/desarrolladas/ajustadas por **evoz3D** en terminos de Firmware y relacionado, asi como las configuraciones de laminado para el software PrusaSlicer y SuperSlicer para dichas impresoras...
+El siguiente repositorio contiene las configuraciones para las impresoras utilizadas/desarrolladas/ajustadas por **evoz3D** :alien: en términos de Firmware y relacionado, asi como las configuraciones de laminado para el software PrusaSlicer y SuperSlicer para dichas impresoras...
 
-Adicional se encuentran los **_Custom Buildplate_** para cada uno de los equipos.
+Adicional se encuentran los [**_Custom Buildplate_**](#Custom-Buildplate) para cada uno de los equipos.
 
+En el apartado [wiki](https://github.com/omonge22/evoz3D/wiki) se encuentra el detalle de cada equipo...
 
+***
 
 ## Firmware 
-[<img align="right" width=150 src="https://github.com/MarlinFirmware/Marlin/blob/2.0.x/buildroot/share/pixmaps/logo/marlin-250.png?raw=true" />](https://github.com/omonge22/Marlin)
+[<img align="right" width=150 src="https://avatars.githubusercontent.com/u/12979070?v=4" />](https://github.com/makerbase-mks) [<img align="right" width=150 src="https://avatars.githubusercontent.com/u/38851044?v=4" />](https://github.com/bigtreetech) [<img align="right" width=150 src="https://github.com/MarlinFirmware/Marlin/blob/2.0.x/buildroot/share/pixmaps/logo/marlin-250.png?raw=true" />](https://github.com/omonge22/Marlin) 
 
  ### Impresoras
 
-* #### aRtiLLeRY GENIUS [wiki](https://github.com/omonge22/evoz3D/blob/main/Wiki/aRtiLLeRY%20GENIUS/README.md)
-  * Factory
+* #### aRtiLLeRY GENIUS [wiki](https://github.com/omonge22/evoz3D/wiki/aRtiLLeRY-GENIUS)
+  * **Marlin 2.0.7.2**
+    *  [BTT TFT35](https://github.com/omonge22/BIGTREETECH-TouchScreenFirmware/tree/BTT-TFT35V3.0/_aRtiLLeRY%20GENIUS%20TFT35V3.0) | [Marlin 2.0.7.2](https://github.com/omonge22/Marlin/tree/_aRtiLLeRY-GENIUS_Marlin)
+    * SKR1.4Turbo [_in process_](https://raw.githubusercontent.com/omonge22/evoz3D/main/resources/icons/web-pc.jpg)
+
+
+  *  **Factory**
   * > Recursos tomados del repositorio de [aRtiLLeRY 3D](https://github.com/artillery3d) 
     * [Marlin 1.1.9](https://github.com/omonge22/genius-firmware)
-    * [TFT: mkstft28](https://github.com/omonge22/genius-tft-firmware) [<img align="right" width=150 src="https://avatars.githubusercontent.com/u/12979070?v=4" />](https://github.com/makerbase-mks)
+    * [TFT: mkstft28](https://github.com/omonge22/genius-tft-firmware)
     * [Contenido USB](https://drive.google.com/file/d/1ymOYUReszwrEQ4nJWugZOiGnmjrinvXf/view)
     * [Cura Profile](https://github.com/artillery3d/slicer_profiles)
     * [PDF Manual](https://drive.google.com/file/d/103mb-JaXS-LajUZ2fF9sH9GxXkMXWKK5/view)
-  * **evoz3D** Repositorio [Marlin 1.1.9](https://github.com/omonge22/Marlin/tree/aRtiLLeRY-GENIUS_Factory-Marlin-1.1.9) 
-  * BLTouch | Z Alignment | [BTT TFT35](https://github.com/omonge22/BIGTREETECH-TouchScreenFirmware/tree/BTT-TFT35V3.0/_aRtiLLeRY%20GENIUS%20TFT35V3.0) | [Marlin 2.0.7.2](https://github.com/omonge22/Marlin/tree/_aRtiLLeRY-GENIUS_Marlin)
-  * SKR1.4Turbo [_in process_](https://raw.githubusercontent.com/omonge22/evoz3D/main/resources/icons/web-pc.jpg)
+  * **evoz3D** :alien: Repositorio [Marlin 1.1.9](https://github.com/omonge22/Marlin/tree/aRtiLLeRY-GENIUS_Factory-Marlin-1.1.9) 
+  
+  ***
 
-* #### Prusa BEAR Custom [wiki](https://github.com/omonge22/evoz3D/blob/main/Wiki/Prusa%20BEAR/README.md) [<img align="right" width=150 src="https://avatars.githubusercontent.com/u/38851044?v=4" />](https://github.com/bigtreetech)
+* #### Prusa BEAR Custom [wiki](https://github.com/omonge22/evoz3D/wiki/Prusa-BEAR-Custom) 
   * BMG Extruder [Marlin 2.0.7.2](https://github.com/omonge22/Marlin/tree/_Prusa-BEAR)
   * BEAR Extruder [_in process_](https://raw.githubusercontent.com/omonge22/evoz3D/main/resources/icons/web-pc.jpg)
 
-* #### Prusa MINI FRANKENSTEIN [wiki](https://github.com/omonge22/evoz3D/blob/main/Wiki/Prusa%20FRANKENSTEIN%20MINI/README.md)
+  ***
+
+* #### Prusa MINI FRANKENSTEIN [wiki](https://github.com/omonge22/evoz3D/wiki/Prusa-FRANKENSTEIN-MINI)
   * [Marlin 2.0.7.2](https://github.com/omonge22/Marlin/tree/_Prusa-FFRANKENSTEIN-MINI)
   * [_in process_ Marlin 2.0.8.x](https://raw.githubusercontent.com/omonge22/evoz3D/main/resources/icons/web-pc.jpg)
 
-* #### BLV-EVA [wiki](https://github.com/omonge22/evoz3D/blob/main/Wiki/BLV-EVA/README.md)
+  ***
+
+* #### BLV-EVA [wiki](https://github.com/omonge22/evoz3D/wiki/BLV-EVA)
   * [Marlin 2.0.8.2](https://github.com/omonge22/Marlin/tree/_BLV-EVA)
 
-* #### PORTU Prusa [wiki](https://github.com/omonge22/evoz3D/tree/main/Wiki/PORTU%20Prusa)
+  ***
+
+* #### PORTU Prusa [wiki](https://github.com/omonge22/evoz3D/wiki/PORTU-Prusa)
   * [_in process..._](https://raw.githubusercontent.com/omonge22/evoz3D/main/resources/icons/web-pc.jpg)
+
+  ***
 
 * #### Kingroom Kp3S
   * Factory
@@ -61,7 +76,8 @@ Adicional se encuentran los **_Custom Buildplate_** para cada uno de los equipos
      * [Contenido USB](https://drive.google.com/file/d/1L9fIGaFAllFT-b9qKtVpjevujm8QpJ2f/view)
      * [PDF Manual](https://github.com/omonge22/evoz3D/blob/main/resources/Kingroon%20Factory/KP3S-Manual.pdf) 
 
-
+***
+***
 
 ## Perfiles de Laminado PrusaSlicer / SuperSlicer
 ### Impresoras agregadas:
@@ -80,7 +96,8 @@ Adicional se encuentran los **_Custom Buildplate_** para cada uno de los equipos
 * BLV-EVA [_in process..._](https://raw.githubusercontent.com/omonge22/evoz3D/main/resources/icons/web-pc.jpg)
 * PORTU Prusa [_in process..._](https://raw.githubusercontent.com/omonge22/evoz3D/main/resources/icons/web-pc.jpg)
 
-
+***
+***
 
 ## Custom Buildplate
 Las carpetas _Custom Buildplate_ permiten personalizar el entorno del laminador para mostrar una imagen similar a la cama física de la impresora.
@@ -95,7 +112,8 @@ Se adjuntan 3 archivos:
 * [Prusa MINI FRANKENSTEIN](https://github.com/omonge22/evoz3D-Config_Bundle/tree/main/Custom%20Buildplate/Prusa%20MINI%20FRANKENSTEIN)
 * BLV-EVA [_in process..._](https://raw.githubusercontent.com/omonge22/evoz3D/main/resources/icons/web-pc.jpg)
 
-
+***
+***
 
 ## Apoya mi Trabajo
 [![paypal.me](resources/icons/paypal_50px.png)](https://www.paypal.me/omonge22)<br/>[paypal.me/omonge22](https://www.paypal.me/omonge22)
