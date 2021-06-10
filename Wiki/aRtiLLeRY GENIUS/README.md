@@ -12,7 +12,7 @@ Hotend|Volcano Clone|[e3d assembly](https://e3d-online.dozuki.com/Guide/Building
 Size|220x220x250|
 Kinematics|Cartesian|
 Steppers| X, Y, Z1, Z2, E0|Doble Z individualizado (G34 - Auto alineamiento Z)
-Bed Leveling|BLTouch|
+Bed Leveling|BLTouch|[Manual](https://github.com/omonge22/evoz3D/blob/main/resources/Drawing/BLTouch/BLTouch%20Manual.pdf)
 Bed|AC 120V|
 Power|24V|
 
