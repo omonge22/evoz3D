@@ -4,5 +4,5 @@ Este directorio contiene los Firmware publicados por Kingroon en su página prin
 
 ***
 
-El fichero _*Kingroon-KP3S-Marlin-stock*_ contiene la configuracion para Marlin 2.0.7.2
-> NO PROBADO
+El fichero _**Kingroon-KP3S-Marlin-stock**_ contiene la configuracion para Marlin 2.0.7.2
+> **NO PROBADO**
