@@ -5,8 +5,8 @@
 ## Tabla de contenidos
   1. [Introducción](#Introducción)
   1. [Firmware ](#Firmware)
-  1. [:warning:ANTENCION!!:warning:](https://github.com/omonge22/evoz3D#warning-atencion-warning)
-  1. [Perfiles de Laminado PrusaSlicer / SuperSlicer](#Perfiles-de-Laminado-PrusaSlicer-/-SuperSlicer)
+  1. [:warning:ANTENCION!!:warning:](#warning-atencion-warning)
+  1. [Perfiles de Laminado PrusaSlicer / SuperSlicer](#Perfiles-de-Laminado-PrusaSlicer--SuperSlicer)
   1. [Custom Buildplate](#Custom-Buildplate)
   1. [Apoya mi Trabajo](#Apoya-mi-Trabajo)
   1. [Gracias](#Gracias)
@@ -83,7 +83,7 @@ En el apartado [wiki](https://github.com/omonge22/evoz3D/wiki) se encuentra el d
   * **Factory**
    * > Recursos tomados de [Kingroon.com](https://www.kingroon.com/downloads/)
      * Marlin (.bin)
-       * [Firmware](https://github.com/omonge22/evoz3D/tree/main/resources/Kingroon%20Factory/KP3S-Firmware-201022)
+       * [Firmware Marlin 1.0.0](https://github.com/omonge22/evoz3D/tree/main/resources/Kingroon%20Factory/KP3S-Firmware-201022)
        * [Firmware - BLTouch](https://github.com/omonge22/evoz3D/tree/main/resources/Kingroon%20Factory/KP3S-Firmware-3Dtouch)
      * [Contenido USB](https://drive.google.com/file/d/1L9fIGaFAllFT-b9qKtVpjevujm8QpJ2f/view)
      * [PDF Manual](https://github.com/omonge22/evoz3D/blob/main/resources/Kingroon%20Factory/KP3S-Manual.pdf) 
