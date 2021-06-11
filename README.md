@@ -5,7 +5,7 @@
 ## Contenidos
   1. [Introducción](#Introducción)
   1. [Firmware ](#Firmware)
-  1. [:warning:ANTENCION!!:warning:](#atencion-warning)
+  1. [ANTENCION!!:warning:](#atencion-warning)
   1. [Perfiles de Laminado PrusaSlicer / SuperSlicer](#Perfiles-de-Laminado-PrusaSlicer--SuperSlicer)
   1. [Custom Buildplate](#Custom-Buildplate)
   1. [Apoya mi Trabajo](#Apoya-mi-Trabajo)
