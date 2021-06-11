@@ -29,6 +29,7 @@ En el apartado [wiki](https://github.com/omonge22/evoz3D/wiki) se encuentra el d
 ### La información contenida en el este repositorio es libre de usarse por cualquier persona, sin embargo, **ÚSESE BAJO SU PROPIO RIESGO** <br><br>**evoz3D**:alien: y el creador de este contenido no se responsabilizaran de cualquier impresora 3D dañada.
 
 ***
+***
 
 
 ## Firmware 
