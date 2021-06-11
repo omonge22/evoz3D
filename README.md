@@ -55,7 +55,7 @@ En el apartado [wiki](https://github.com/omonge22/evoz3D/wiki) se encuentra el d
   ***
 
 * #### Prusa BEAR Custom [wiki](https://github.com/omonge22/evoz3D/wiki/Prusa-BEAR-Custom) 
-  * BMG Extruder [evoz3D:alien: Marlin Firmware 2.0.7.2](https://github.com/omonge22/Marlin/blob/_Prusa-BEAR-evoz3D-Marlin-Firmware/README.md)
+  * BMG Extruder [evoz3D:alien: Marlin Firmware 2.0.7.2](https://github.com/omonge22/Marlin/tree/_Prusa-BEAR-evoz3D-Marlin-Firmware)
   * BEAR Extruder [_in process_](https://raw.githubusercontent.com/omonge22/evoz3D/main/resources/icons/web-pc.jpg)
 
   ***
