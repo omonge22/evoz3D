@@ -78,7 +78,7 @@ En el apartado [wiki](https://github.com/omonge22/evoz3D/wiki) se encuentra el d
 
 * #### Kingroom Kp3S [wiki ](https://github.com/omonge22/evoz3D/wiki/Kingroon-KP3S)
   * **Titan Extruder Clone / Ajuste de Microstep**
-    * [Proceso](https://github.com/omonge22/evoz3D/wiki/Kingroon-KP3S#actualizatci%C3%B3n-titan-extruder-clone-)
+    * [Procedimiento](https://github.com/omonge22/evoz3D/wiki/Kingroon-KP3S#actualizatci%C3%B3n-titan-extruder-clone-)
 
 
   * **Factory**
