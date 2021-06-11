@@ -67,7 +67,7 @@ En el apartado [wiki](https://github.com/omonge22/evoz3D/wiki) se encuentra el d
   ***
 
 * #### BLV-EVA [wiki](https://github.com/omonge22/evoz3D/wiki/BLV-EVA)
-  * [Marlin 2.0.8.2](https://github.com/omonge22/Marlin/tree/_BLV-EVA)
+  * [evoz3D👽 Marlin Firmware 2.0.8.2](https://github.com/omonge22/Marlin/tree/_BLV-EVA)
 
   ***
 
