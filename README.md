@@ -61,7 +61,7 @@ En el apartado [wiki](https://github.com/omonge22/evoz3D/wiki) se encuentra el d
   ***
 
 * #### Prusa MINI FRANKENSTEIN [wiki](https://github.com/omonge22/evoz3D/wiki/Prusa-FRANKENSTEIN-MINI)
-  * [[evoz3D👽 Marlin Firmware 2.0.7.2]](https://github.com/omonge22/Marlin/tree/_Prusa-FFRANKENSTEIN-MINI-evoz3D-Marlin-Firmware)
+  * [evoz3D👽 Marlin Firmware 2.0.7.2](https://github.com/omonge22/Marlin/tree/_Prusa-FFRANKENSTEIN-MINI-evoz3D-Marlin-Firmware)
   * [_in process_ Marlin 2.0.8.x](https://raw.githubusercontent.com/omonge22/evoz3D/main/resources/icons/web-pc.jpg)
 
   ***
