@@ -39,7 +39,7 @@ En el apartado [wiki](https://github.com/omonge22/evoz3D/wiki) se encuentra el d
 
 * #### aRtiLLeRY GENIUS [wiki](https://github.com/omonge22/evoz3D/wiki/aRtiLLeRY-GENIUS)
   * **Marlin 2.0.7.2**
-    *  [BTT TFT35](https://github.com/omonge22/BIGTREETECH-TouchScreenFirmware/tree/BTT-TFT35V3.0/_aRtiLLeRY%20GENIUS%20TFT35V3.0) | [Marlin 2.0.7.2](https://github.com/omonge22/Marlin/tree/_aRtiLLeRY-GENIUS_Marlin)
+    *  [BTT TFT35](https://github.com/omonge22/BIGTREETECH-TouchScreenFirmware/tree/BTT-TFT35V3.0/_aRtiLLeRY%20GENIUS%20TFT35V3.0) | [evoz3D:alien: Marlin Firmware 2.0.7.2](https://github.com/omonge22/Marlin/tree/_aRtiLLeRY-GENIUS-evoz3D-Marlin-Firmware)
     * SKR1.4Turbo [_in process_](https://raw.githubusercontent.com/omonge22/evoz3D/main/resources/icons/web-pc.jpg)
 
 
