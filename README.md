@@ -2,10 +2,10 @@
 
 
 
-## Tabla de contenidos
+## Contenidos
   1. [Introducción](#Introducción)
   1. [Firmware ](#Firmware)
-  1. [:warning:ANTENCION!!:warning:](#warning-atencion-warning)
+  1. [:warning:ANTENCION!!:warning:](#atencion-warning)
   1. [Perfiles de Laminado PrusaSlicer / SuperSlicer](#Perfiles-de-Laminado-PrusaSlicer--SuperSlicer)
   1. [Custom Buildplate](#Custom-Buildplate)
   1. [Apoya mi Trabajo](#Apoya-mi-Trabajo)
@@ -25,7 +25,7 @@ En el apartado [wiki](https://github.com/omonge22/evoz3D/wiki) se encuentra el d
 <br/>
 
 
-## :warning: ATENCION!!! :warning:
+## ATENCION!!! :warning:
 ### La información contenida en el este repositorio es libre de usarse por cualquier persona, sin embargo, **ÚSESE BAJO SU PROPIO RIESGO** <br><br>**evoz3D**:alien: y el creador de este contenido no se responsabilizaran de cualquier impresora 3D dañada.
 
 ***
