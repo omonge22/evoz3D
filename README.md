@@ -71,8 +71,8 @@ En el apartado [wiki](https://github.com/omonge22/evoz3D/wiki) se encuentra el d
 
   ***
 
-* #### PORTU Prusa [wiki](https://github.com/omonge22/evoz3D/wiki/PORTU-Prusa)
-  * [_in process..._](https://raw.githubusercontent.com/omonge22/evoz3D/main/resources/icons/web-pc.jpg)
+* #### PORTU Prusa BEAR [wiki](https://github.com/omonge22/evoz3D/wiki/PORTU-Prusa)
+  * [evoz3D👽 Marlin Firmware 2.0.9.1](https://github.com/omonge22/Marlin/tree/_PORTU-Prusa-BEAR-evoz3D-Marlin-Firmware)
 
   ***
 
